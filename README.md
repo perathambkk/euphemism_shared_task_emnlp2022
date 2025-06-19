@@ -7,7 +7,7 @@ Our best submission based on RoBERTa tweet 124m + KimCNN (0.816 test F1-score) c
 Presentation slides: https://docs.google.com/presentation/d/11ufCfDBz9AK6h_YU7s6KbP_P0Ceeq8jcYSoauwfinlo/edit?usp=sharing
 
 ## Training and Testing
-Copy the [Euphemism22_code](Euphemism22_code) to any colab directory and mount to the node. 
+Copy the [Euphemism22_code](Euphemism22_code) to any colab directory and mount to the node. The jupyter notebooks such as [Euphemism22_cardiffnlp_twitter_roberta_base_sentiment_latest_kim_cnn.ipynb] (Euphemism22_cardiffnlp_twitter_roberta_base_sentiment_latest_kim_cnn.ipynb) provide the complete steps and pipelines. 
 
 ## Cite this paper
 A link to the [paper](https://aclanthology.org/2022.flp-1.pdf#page=15) and its [ArXiv](https://arxiv.org/abs/2301.06602).
